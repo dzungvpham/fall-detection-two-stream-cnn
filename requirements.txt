@@ -53,7 +53,7 @@ pyrsistent==0.14.11
 python-dateutil==2.7.5
 python-slugify==3.0.2
 pywinpty==0.5.5
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==18.0.1
 qtconsole==4.4.3
 requests==2.21.0
