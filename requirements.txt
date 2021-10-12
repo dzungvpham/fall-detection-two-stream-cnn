@@ -39,7 +39,7 @@ nbformat==4.4.0
 notebook==5.7.8
 numpy==1.15.4
 opencv-contrib-python==4.0.0.21
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 pandocfilters==1.4.2
 parso==0.4.0
 pickleshare==0.7.5
